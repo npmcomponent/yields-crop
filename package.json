@@ -1,0 +1,20 @@
+{
+  "name": "yields-crop",
+  "description": "Image cropper",
+  "version": "0.0.2",
+  "keywords": [
+    "cropper",
+    "image",
+    "crop"
+  ],
+  "styles": [
+    "crop.css"
+  ],
+  "dependencies": {
+    "ui-component-draggable": "git://github.com/npmcomponent/ui-component-draggable.git",
+    "ui-component-resizable": "git://github.com/npmcomponent/ui-component-resizable.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-domify": "git://github.com/npmcomponent/component-domify.git"
+  },
+  "license": "MIT"
+}

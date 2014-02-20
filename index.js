@@ -3,10 +3,10 @@
  * dependencies.
  */
 
-var draggable = require('draggable')
-  , resizable = require('resizable')
-  , emitter = require('emitter')
-  , domify = require('domify')
+var draggable = require('ui-component-draggable')
+  , resizable = require('ui-component-resizable')
+  , emitter = require('component-emitter')
+  , domify = require('component-domify')
   , tpl = require('./template');
 
 /**
